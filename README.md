@@ -3,7 +3,7 @@
 With Profile Picture and responsive CV website built using HTML and CSS.
 
 ## 🚀 Live Demo
-
+https://modern-responsive-cv-7odm2rvl9-mr-ykd.vercel.app
 👉
 
 ## 📂 Features
